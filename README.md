@@ -44,7 +44,7 @@ height="40px" width="200px" alt="heroku" /></a>
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/TEAMREBELS/REBELBOT
+git clone https://github.com/lucifer11301213/TEAMREBELS/REBELBOT
 cd REBELBOT
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
